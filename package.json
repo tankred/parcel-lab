@@ -1,0 +1,12 @@
+{
+  "name": "parcelLabs",
+  "version": "0.2.0",
+  "description": "web application bundler LAB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["x64", "ia32"],
+  "author": "akiko",
+  "license": "ISC"
+}
