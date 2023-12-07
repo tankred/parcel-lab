@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.4.0] - 2023-12-07
+### Changed
+- Drop dev branch and bump version
+
 ## [0.3.0] - 2020-11-17
 ### Added
 - Add GNU v3 License
@@ -18,8 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.1] - 2020-07-08
 ### Changed
 - Add npm run srcipts
-
-## [Released]
 
 ## [0.1.0] - 2020-06-24
 ### Added
