@@ -1,6 +1,6 @@
 {
   "name": "parcel-lab",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "web application bundler LAB",
   "main": "index.js",
   "scripts": {
